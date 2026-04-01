@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2026. Feito por Icaro Dias Marculino.
+ */
+
 package org.example.dominio;
 
 import java.util.Objects;
