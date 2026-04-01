@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2026. Feito por Icaro Dias Marculino.
+ */
+
 package org.example.infra;
 
 import org.example.dominio.AcoesDepoisEstimativa;
